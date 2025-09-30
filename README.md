@@ -2,7 +2,7 @@
 
 Interactive demo to explore the evolution of **point clouds** under a single-unit ReLU Neural ODE, with **multi-step composition**, **free / interpolation / classification** modes, and simple **separability** and **cross-entropy** metrics.
 
-**Live:** _(coming soon)_  
+**Live:** https://antonioalvarezl.github.io/relu-point-simulator/  
 **Code:** `index.html` (single file; see below)  
 **License:** MIT
 
